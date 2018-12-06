@@ -14,3 +14,6 @@ $ go run directory.go
 ```
 
 By default, it listens on port 8085. [http://localhost:8085](http://localhost:8085)
+
+## See also
+Full client JavaScript side: https://bhbnetwork.github.io/directory-js/
